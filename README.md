@@ -26,3 +26,11 @@ ardunio water 💦 tank controller
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FkPbwRjNjCE/0.jpg)](https://www.youtube.com/watch?v=FkPbwRjNjCE)
 
+______________________________________
+
+ardunio water 💦 sprinkler system
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/n4s6zDC_eJg/0.jpg)](https://www.youtube.com/watch?v=n4s6zDC_eJg)
+
+
+
