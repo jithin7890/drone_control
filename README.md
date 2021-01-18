@@ -1,5 +1,9 @@
 # drone_control
 
+<a href="https://www.arduino.cc/"><img src="https://github.com/EtricKombat/drone_control/blob/main/doc/Arduino.gif" width="30%" height="273"></a> 
+
+
+
 ## ardunio
 
 ardunio Laymens term
